@@ -45,42 +45,47 @@ const Landing = () => {
       <p
         style={{ fontSize: "18px", fontStyle: "italic", marginBottom: "30px" }}
       >
-        Niko Dwi Novana
+        ILHAM WAHYU FIRMANSYAH
       </p>
       <p
         style={{ fontSize: "18px", fontStyle: "italic", marginBottom: "30px" }}
       >
-        Niko Dwi Novana
+        MUHAMMAD AUFA IZUL HAQ
       </p>
       <p
         style={{ fontSize: "18px", fontStyle: "italic", marginBottom: "30px" }}
       >
-        Niko Dwi Novana
+        WILDAN FIRDAUSI RIFA’I
       </p>
       <p
         style={{ fontSize: "18px", fontStyle: "italic", marginBottom: "30px" }}
       >
-        Niko Dwi Novana
+        MUHAMMAD DANIL HAQEWI
       </p>
       <p
         style={{ fontSize: "18px", fontStyle: "italic", marginBottom: "30px" }}
       >
-        Niko Dwi Novana
+        YUDO DWINATA
       </p>
       <p
         style={{ fontSize: "18px", fontStyle: "italic", marginBottom: "30px" }}
       >
-        Niko Dwi Novana
+        MUHAMMAD FAHRUDDIN MAHFUDHONI
       </p>
       <p
         style={{ fontSize: "18px", fontStyle: "italic", marginBottom: "30px" }}
       >
-        Niko Dwi Novana
+        MUHAMAD ANANTA HIDAYATULLOH
       </p>
       <p
         style={{ fontSize: "18px", fontStyle: "italic", marginBottom: "30px" }}
       >
-        Niko Dwi Novana
+        NIKO DWI NOVANA
+      </p>
+      <p
+        style={{ fontSize: "18px", fontStyle: "italic", marginBottom: "30px" }}
+      >
+        ADHIKA PRATAMA HAKIM
       </p>
       <div style={{ marginBottom: "50px" }}>
         <Link to="/register">
